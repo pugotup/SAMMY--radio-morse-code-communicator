@@ -1,11 +1,11 @@
-PARTS NEEDED (for each device)
-The pcb (SAMMY V1.1.zip is the gerber file)
-1 esp32 wroom-32U
-1 NRF204L01 PA+LNA module
-2 tactile buttons 4pins
-1 5v buzzer
-1 22uF capacitor
-1 4 pin oled screen
+PARTS NEEDED (for 2 devices)
+2x pcb (SAMMY V1.1.zip is the gerber file)
+2x esp32 wroom-32U
+2x NRF204L01 PA+LNA module
+4x tactile buttons 4pins
+2x 5v buzzer
+2x 22uF capacitor
+2x 4 pin oled screen
 
 flash the code on the esp32 using the arduino ide (sammycode.ino is the code)
 REQUIRED LIBRARIES:
