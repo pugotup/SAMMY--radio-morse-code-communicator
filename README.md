@@ -1,4 +1,4 @@
-SAMMY is a very easy to use device. when setting up the device simply solder the parts listen in the bill of materials to the marked spots on the pcb.
+SAMMY is a very easy to use device. when setting up the device simply solder the parts listed in the bill of materials to the marked spots on the pcb.
 
 IMPORTANT!!!! when you flash the code onto the esp32 you need to change the device id. if you dont it wont be able to communicate with other devices.
 
