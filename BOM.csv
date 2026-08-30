@@ -1,0 +1,8 @@
+PARTS NEEDED (for 2 devices)
+2x pcb (SAMMY V1.1.zip is the gerber file)
+2x esp32 wroom-32U
+2x NRF204L01 PA+LNA module
+4x tactile buttons 4pins
+2x 5v buzzer
+2x 22uF capacitor
+2x 4 pin oled screen
