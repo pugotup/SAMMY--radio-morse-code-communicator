@@ -1,8 +1,8 @@
 PARTS NEEDED (for 2 devices)
-2x pcb (SAMMY V1.1.zip is the gerber file)
-2x esp32 wroom-32U
-2x NRF204L01 PA+LNA module
-4x tactile buttons 4pins
-2x 5v buzzer
-2x 22uF capacitor
-2x 4 pin oled screen
+2x pcb (SAMMY V1.1.zip is the gerber file) (you can get 5 for around $12 on jlcpcb)
+2x esp32 wroom-32U (around $8 for 2 on aliexpress)
+2x NRF204L01 PA+LNA module (around 2 for $8 on aliexpress)
+4x tactile buttons 4pins ( you can get a pack of 50 for like $2 on aliexpress)
+2x 5v buzzer (usually 10 for a dollar on aliexpress)
+2x 22uF capacitor (40 for a dollar)
+2x 4 pin oled screen (2 for 4 bucks)
