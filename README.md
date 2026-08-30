@@ -9,6 +9,9 @@ how it works!: SAMMY takes your morse code and translates it into readable chara
 ALSO!! i made this project for a challenge called stardance put on by hackclub, if youre interested in engineering or computer science (and are ages 13-18) go check them out here
 stardace: https://stardance.hackclub.com/home
 hackclub: https://hackclub.com/
+
+
+
 flash the code on the esp32 using the arduino ide (sammycode.ino is the code)
 REQUIRED LIBRARIES:
 -RF24 by TMRh20
