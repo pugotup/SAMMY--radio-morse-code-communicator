@@ -1,5 +1,5 @@
 PARTS NEEDED (for each device)
-The pcb (dash-dot v.1.1.zip is the gerber file)
+The pcb (SAMMY V1.1.zip is the gerber file)
 1 esp32 wroom-32U
 1 NRF204L01 PA+LNA module
 2 tactile buttons 4pins
@@ -7,7 +7,7 @@ The pcb (dash-dot v.1.1.zip is the gerber file)
 1 22uF capacitor
 1 4 pin oled screen
 
-flash the code on the esp32 using the arduino ide
+flash the code on the esp32 using the arduino ide (sammycode.ino is the code)
 REQUIRED LIBRARIES:
 -RF24 by TMRh20
 -Adafruit SSD1306 by adafruit
