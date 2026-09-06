@@ -38,5 +38,16 @@ REQUIRED LIBRARIES:
 </p>
 
 
+<p align="center">
+  <img src="design.PNG" alt="Dot-Dash PCB Layout" width="500">
+</p>
+
+
+<p align="center">
+  <img src="schematic.PNG" alt="Dot-Dash PCB Layout" width="500">
+</p>
+
+
+
 
 ps. try holding both buttons at once. tapping dot 10 times and spelling sos. some fun easter eggs
