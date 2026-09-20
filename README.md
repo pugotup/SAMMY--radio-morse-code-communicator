@@ -31,21 +31,16 @@ REQUIRED LIBRARIES:
 
 
 
-
-
 <p align="center">
-  <img src="SAMMYPICTURE.PNG" alt="Dot-Dash PCB Layout" width="500">
+  <img src="pictures/SAMMYPICTURE.PNG" alt="SAMMY PCB Layout" width="500">
+</p>
+<p align="center">
+  <img src="pictures/schematic.PNG" alt="SAMMY Schematic" width="500">
+</p>
+<p align="center">
+  <img src="pictures/design.PNG" alt="SAMMY Design View" width="500">
 </p>
 
-
-<p align="center">
-  <img src="design.PNG" alt="Dot-Dash PCB Layout" width="500">
-</p>
-
-
-<p align="center">
-  <img src="schematic.PNG" alt="Dot-Dash PCB Layout" width="500">
-</p>
 
 
 
